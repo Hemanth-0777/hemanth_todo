@@ -1,4 +1,4 @@
-jango To-Do List Application
+Django To-Do List Application
 A responsive web-based To-Do List application built with Django, SQLite, and CSS. Features include task creation, status toggling (complete/undo), and item deletion.
 
 Features
